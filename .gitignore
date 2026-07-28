@@ -1,0 +1,43 @@
+# Environment and secrets
+.env
+*.env.local
+backend/.env
+frontend/.env
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.egg-info/
+.pytest_cache/
+.coverage
+htmlcov/
+.venv/
+venv/
+backend/.venv/
+
+# Databases and generated data
+*.db
+*.sqlite
+*.sqlite3
+data/*
+!data/.gitkeep
+
+# Node / Vite
+node_modules/
+frontend/node_modules/
+dist/
+frontend/dist/
+coverage/
+frontend/coverage/
+
+# Editors and operating systems
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Logs and temporary files
+*.log
+*.tmp
+*.temp
