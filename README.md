@@ -156,12 +156,6 @@ FastAPI generates interactive OpenAPI documentation automatically.
 A concise endpoint summary is available in
 [`docs/api-reference.md`](docs/api-reference.md).
 
-## Screenshots
-
-Add final desktop, tablet, and mobile screenshots under
-`docs/screenshots/` before submission. Follow
-[`docs/screenshots/README.md`](docs/screenshots/README.md).
-
 ## Demo video
 
 Record a concise one-to-two-minute walkthrough using
@@ -199,11 +193,6 @@ to education and helping professionals advance their careers.
 - Historical observations and forecasts may contain different variables.
 - Browser geolocation requires permission and a secure context or localhost.
 - The embedded map requires an internet connection.
-
-## Submission checklist
-
-Review [`docs/submission-checklist.md`](docs/submission-checklist.md)
-before sharing the repository.
 
 ## Licence
 
