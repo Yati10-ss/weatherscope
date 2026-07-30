@@ -168,7 +168,21 @@ Record a concise one-to-two-minute walkthrough using
 [`docs/demo-script.md`](docs/demo-script.md), upload it to a viewable host,
 and add the final URL here before submitting:
 
-**Demo video:** `ADD_VIEWABLE_DEMO_URL_BEFORE_SUBMISSION`
+**Demo video:** [Watch the WeatherScope assessment demo] https://drive.google.com/file/d/1RDqXAV23IGm3l-K6gs9rT2nD8LPjg426/view?usp=sharing
+
+## Application screenshots
+
+### Desktop dashboard
+
+![WeatherScope desktop dashboard](docs/screenshots/desktop_view)
+
+### Mobile layout preview
+
+![WeatherScope mobile layout preview](docs/screenshots/mobile_view)
+
+### swagger_api 
+
+![WeatherScope Swagger API ](docs/screenshots/swagger_api)
 
 ## PM Accelerator
 
